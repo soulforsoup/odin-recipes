@@ -1,6 +1,9 @@
 * {
     font-family: Helvetica, sans-serif;
     text-align: center;
+    background: #f1faee;
+    color: #1d3557;
+    list-style-position: left;
 }
 
 img {
@@ -9,5 +12,10 @@ img {
 }
 
 button {
-    background-color: beige;
+    background-color: #e63946;
+    color: #f1faee;
+    font-size: large;
+    font-weight: bold;
 }
+
+li
